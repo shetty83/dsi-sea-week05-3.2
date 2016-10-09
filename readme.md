@@ -36,7 +36,6 @@ Use your new SQL skills to query the Northwind database and extract some interes
 
 [Starter code](code/starter-code/starter-code-3_2.ipynb)
 
-> [Solution code](code/solution-code/solution-code-3_2.ipynb)
 
 
 ## Additional Resources
